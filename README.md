@@ -58,7 +58,7 @@ Resources needed! - Create a pull request with anything!
 
 **https://ir0nstone.gitbook.io/** - Notes from a student, definitely worth checking out!
 
-
+**https://ropemporium.com/** - A collection of challenges on return-oriented programming.
 
 
 ## Web
@@ -79,11 +79,16 @@ Resources needed! - Create a pull request with anything!
 
 **https://tryhackme.com/** - A great place to start with Cyber Security, they have loads of walkthrough and challenges around multiple areas in cyber security. Completely free for a large proportion of the content, although there is a subscriber feature. 
 
+**https://www.rangeforce.com/** - Lots of free content, covers much more than just pentesting content. 
+
 **https://overthewire.org/wargames/** - A large selection of challenges focusing on different areas, such as Linux, Web etc.
 
 **https://www.sans.org/** - SANS is great. They have such a wide variety of free content, from cheatsheets to free conferences. 
 
 **https://www.cyberaces.org/** - Also developed by SANS, it's an online course of the basics, for free, of course ;)
+
+**https://enotes.nickapic.com/** - Another massive collection of notes, all created with love, by Nickapic.
+
 
 
 
@@ -95,3 +100,13 @@ https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw - John Hammond makes gr
 https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA - IppSec has countless retired HackTheBox machines, and more on his channel. He's great to watch, even if you don't follow along, as you can just feel the intelligence leaking in. 
 
 https://www.youtube.com/channel/UCpoyhjwNIWZmsiKNKpsMAQQ - VbScrub has some brilliant videos on Active Directory, and focuses on Windows content, primarily through the HackTheBox platform. 
+
+https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w - Live Overflow, has over 300 videos which range from technical to vlog-like.
+
+### Resources:
+A collection of collections of much better resources than I have here. 
+
+https://dfirmadness.com/getting-into-infosec/the-five-pillars/
+
+https://noxcyber.co.uk/the-cheatsheet
+
