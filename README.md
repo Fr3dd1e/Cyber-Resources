@@ -25,14 +25,18 @@ I think a great way of getting to grips with Linux is by trying to exploit it. L
 
 
 
+
 ## Windows
 
 **https://youtu.be/Sdz1IOQghgo** - John Strand's introduction to Windows command line.
 Resources needed! - Create a pull request with anything!
 
+
 ### Powershell
 **https://posh-hunter.com/** - CTF-like introduction to Powershell.
 **https://underthewire.tech/** - OverTheWire, but for Powershell.
+
+
 
 
 ## Cryptography
@@ -48,10 +52,13 @@ Resources needed! - Create a pull request with anything!
 
 
 
+
 ## Binary
 **https://guyinatuxedo.github.io/** - A course on Binary Exploitation based around CTF challenges. 
 
 **https://ir0nstone.gitbook.io/** - Notes from a student, definitely worth checking out!
+
+
 
 
 ## Web
@@ -62,7 +69,29 @@ Resources needed! - Create a pull request with anything!
 **https://www.youtube.com/playlist?list=PLuyTk2_mYISLaZC4fVqDuW_hOk0dd5rlf** - Rana Khalil is amazing at explaining in depth SQL injection, and she's regularly producing more content, so watch this space!
 
 
+
 ## General Hacking
+**https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course** - A great course which covers many topics, and is incredibly cheap for the content you're getting. Note that Heath regularly does discounts on his twitter, so it's definitely worth watching out for that.
+
+**https://my.ine.com/CyberSecurity/learning-paths/a223968e-3a74-45ed-884d-2d16760b8bbd/penetration-testing-student** - INE has made their course for the eJPT certification completely free to take. It has some great content, and is very beginner focused. I believe labs are included for free, but it's worth noting the certification isn't.
+
+**https://www.hackthebox.eu/** - Some very challenging boot2root machines and challenges, and they're also branching out with their academy, which has regular updates to content: https://academy.hackthebox.eu (the majority of content on the academy is not free, however)
+
+**https://tryhackme.com/** - A great place to start with Cyber Security, they have loads of walkthrough and challenges around multiple areas in cyber security. Completely free for a large proportion of the content, although there is a subscriber feature. 
+
+**https://overthewire.org/wargames/** - A large selection of challenges focusing on different areas, such as Linux, Web etc.
+
+**https://www.sans.org/** - SANS is great. They have such a wide variety of free content, from cheatsheets to free conferences. 
+
+**https://www.cyberaces.org/** - Also developed by SANS, it's an online course of the basics, for free, of course ;)
+
 
 
 ## Miscellaneous
+
+### People:
+https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw - John Hammond makes great informative and entertaining content on YouTube.
+
+https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA - IppSec has countless retired HackTheBox machines, and more on his channel. He's great to watch, even if you don't follow along, as you can just feel the intelligence leaking in. 
+
+https://www.youtube.com/channel/UCpoyhjwNIWZmsiKNKpsMAQQ - VbScrub has some brilliant videos on Active Directory, and focuses on Windows content, primarily through the HackTheBox platform. 
