@@ -1,5 +1,5 @@
 # Cyber Resources
--> by Mercury180
+-> by Freddie
 
 
 This is a collection of all the best resources I've learnt from and used in the past year of my cyber security learning. 
